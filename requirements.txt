@@ -8,7 +8,6 @@ gunicorn
 uvloop
 httptools
 numpy
-pickle
 python-whois
 beautifulsoup4
 pyopenssl
