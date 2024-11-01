@@ -17,3 +17,4 @@ python-Levenshtein
 ail-typo-squatting
 lightgbm
 firebase-admin==6.1.0
+scikit-learn
